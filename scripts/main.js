@@ -1,3 +1,8 @@
+/*Alejandro Ruiz Prieto
+https://github.com/Alesso-ai/simulacro_AreayPerimetro.git
+*/ 
+
+
 
 document.addEventListener("DOMContentLoaded", function(){
 
