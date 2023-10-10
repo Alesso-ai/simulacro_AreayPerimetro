@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: aqua;
+    font-family: monospace;
+    font-size: large;
+}
+main{
+    text-align: center;
+
+}
+
+.btn{
+    color: #e6e9e7;
+    background-color: rgb(25, 67, 218);
+    width: 100px;
+    height: 50px;
+    text-align: center;
+}

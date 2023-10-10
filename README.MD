@@ -1,0 +1,1 @@
+# Simulacro del dia 10 de octubre.
